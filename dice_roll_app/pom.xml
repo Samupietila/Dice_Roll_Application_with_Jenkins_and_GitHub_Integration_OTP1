@@ -23,6 +23,7 @@
 </dependencies>
 
 <build>
+        <finalName>diceroll</finalName>
         <plugins>
             <!-- Compiler Plugin for setting the Java version -->
             <plugin>
